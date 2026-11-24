@@ -1,20 +1,20 @@
 ---
-name: Broken site / missed ad / Sorunlu site
-about: A site breaks, an ad or cookie banner is not blocked / Site bozuluyor, reklam veya çerez penceresi engellenmiyor
+name: Broken site / missed ad
+about: A site breaks, or an ad or cookie banner is not blocked
 labels: site
 ---
 
 <!--
-This issue is public. Remove anything personal from the page address (account IDs, search terms, tokens after "?").
-Bu kayıt herkese açıktır. Sayfa adresindeki kişisel kısımları ("?" sonrası, hesap numaraları, arama terimleri) silin.
+This issue is public. Remove anything personal from the page address
+(account IDs, search terms, tokens after "?") before posting.
 -->
 
-**Site address / Site adresi:**
+**Site address:**
 
-**What happens / Ne oluyor:**
+**What happens:**
 
-**Test report / Test raporu** (popup → "Copy test report" / "Test raporunu kopyala"):
+**Test report** (Kalkan popup → "Copy test report"):
 
 ```
-paste here / buraya yapıştırın
+paste here
 ```

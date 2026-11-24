@@ -27,12 +27,3 @@ Kalkan needs no account, has no server and collects no data. Read the full [priv
 Found a broken site, a missed ad or a cookie banner that stayed?
 [Open an issue](../../issues/new/choose). The issue tracker is public, so please don't post personal information.
 
----
-
-## Türkçe
-
-Kalkan; reklamları, izleyicileri ve çerez pencerelerini tek eklentide engelleyen hafif bir Chrome reklam engelleyicisidir.
-Hesap istemez, sunucusu yoktur, hiçbir veri toplamaz: [Gizlilik politikası](PRIVACY.md#türkçe).
-
-Bir sitede sorun mu var? Kalkan'ı o sitede duraklatın, simgedeki "Test raporunu kopyala" ile raporu alın ve
-[yeni bir kayıt açın](../../issues/new/choose). Kayıtlar herkese açıktır; kişisel bilgi paylaşmayın.

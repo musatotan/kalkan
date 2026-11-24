@@ -40,22 +40,3 @@ If this policy changes, the new version will be published here with a new effect
 
 Questions about privacy: [open an issue](https://github.com/musatotan/kalkan/issues).
 
----
-
-## Türkçe
-
-Yürürlük tarihi: 25 Kasım 2026
-
-**Kalkan hiçbir veri toplamaz.** Kişisel bilgi ya da tarama verisi toplamaz, satmaz, paylaşmaz, hiçbir yere göndermez.
-Hesap sistemi, sunucusu, analitik ya da telemetri yoktur; eklenti kendi başına hiçbir ağ isteği yapmaz.
-
-Çalışabilmek için yalnızca cihazınızda, Chrome'un yerel eklenti deposunda şunları tutar: ayarlarınız, Kalkan'ı
-duraklattığınız siteler, gizlemeyi seçtiğiniz öğeler ve her sekmede engellenen isteklerin geçici listesi (sekme yeni
-sayfaya geçince silinir). Bu veriler tarayıcınızdan çıkmaz; eklentiyi kaldırınca silinir.
-
-Tüm sitelere erişim izni, reklam ve izleyici isteklerini engellemek, boş reklam kutularını gizlemek, çerez pencerelerini
-reddetmek ve neyin engellendiğini göstermek için kullanılır. Betikler sayfaya yalnızca reklam kutularını ve çerez pencerelerini bulmak için bakar; sayfa içeriği toplanmaz, saklanmaz, gönderilmez.
-
-"Test raporunu kopyala" düğmesi raporu yalnızca panonuza kopyalar; Kalkan raporu hiçbir yere göndermez.
-
-İletişim: [kayıt açın](https://github.com/musatotan/kalkan/issues).
